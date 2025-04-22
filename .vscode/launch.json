@@ -56,7 +56,7 @@
       "envFile": "${workspaceFolder}/env/.env7",
       "env": {
         "run.config": "{\"handlerId\":\"lcap_run_config_handler_id\",\"runnableId\":\"{\\\"projectPath\\\":\\\"/home/user/projects/RiskManagement\\\",\\\"profileName\\\":\\\"\\\"}\"}",
-        "runConfigurations": "{\"odataBinding\":{\"BusinessPartnerA2X\":{\"destination\":\"apihub_sandbox\",\"type\":\"Destination\",\"path\":\"s4hanacloud/sap/opu/odata/sap/API_BUSINESS_PARTNER\"}}}"
+        "runConfigurations": "{\"odataBinding\":{\"BusinessPartnerA2X\":{\"destination\":\"apihub_sandbox\",\"type\":\"Destination\",\"path\":\"\",\"url\":\"https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_BUSINESS_PARTNER\",\"headers\":{\"ApiKey\":\"ypLOLjk8MUCjx7ZljCeGb3GGiNVIdEis\"}}}}"
       }
     }
   ]
